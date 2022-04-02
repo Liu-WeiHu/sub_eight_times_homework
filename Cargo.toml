@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "the_third_class",  # 第三课作业
+]
