@@ -1,0 +1,23 @@
+[package]
+name = "the_fourth_class"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# 第四题
+[[bin]]
+name = "fourth_question"
+path = "src/第四题/fourth_question.rs"
+
+# 第五题
+[[bin]]
+name = "fifth_question"
+path = "src/第五题/fifth_question.rs"
+
+# 第六题
+[[bin]]
+name = "sixth_question"
+path = "src/第六题/sixth_question.rs"
+
+[dependencies]

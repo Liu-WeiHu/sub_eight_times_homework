@@ -132,6 +132,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "the_fourth_class"
+version = "0.1.0"
+
+[[package]]
 name = "the_third_class"
 version = "0.1.0"
 dependencies = [
